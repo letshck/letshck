@@ -1,4 +1,4 @@
-# Hi, I’m letshck
+# Hi, I’m Ayush
 
 SOC Analyst focused on detection, triage, and automation. I build practical security tooling around phishing analysis, SIEM monitoring, and safer authentication.
 
